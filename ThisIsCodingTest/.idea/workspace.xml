@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="caf3139e-3358-4ef2-95c1-62d6d3787822" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter03_Greedy/3-3NumCardGame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter03_Greedy/3-4UntilOne.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04_Implementation/4-1UpDownLeftRight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04_Implementation/4-2Time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04_Implementation/4-3KnightofKingdom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04_Implementation/4-4DevelopeGame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04_Implementation/Ch04_intro.txt" afterDir="false" />
+    <list default="true" id="caf3139e-3358-4ef2-95c1-62d6d3787822" name="Default Changelist" comment="2021.05.12(Wed) python">
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter05_DFS&amp;BFS/5-10 FrozenDrink.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter05_DFS&amp;BFS/5-11 ExcapeMaze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter05_DFS&amp;BFS/5-1StackExample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter05_DFS&amp;BFS/5-2QueueExample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter05_DFS&amp;BFS/5-5 FactorialExample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter05_DFS&amp;BFS/5-6 AdjacencyList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter05_DFS&amp;BFS/5-7 AdjacencyMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter05_DFS&amp;BFS/5-8 DFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter05_DFS&amp;BFS/5-9 BFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter05_DFS&amp;BFS/Ch05_intro.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q01_AdventurerGuild.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q02_PlusOrMult.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q03_ReverseString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q04_UnreachablePrice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q05_ChooseBowlingBall.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter03_Greedy/3-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter03_Greedy/3-2LargeNumRule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter03_Greedy/3-1CoinChanges.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part02/Chapter03_Greedy/3-1 CoinChanges.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter03_Greedy/3-2LargeNumRule.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part02/Chapter03_Greedy/3-2 LargeNumRule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter03_Greedy/3-3NumCardGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part02/Chapter03_Greedy/3-3 NumCardGame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter03_Greedy/3-4UntilOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part02/Chapter03_Greedy/3-4 UntilOne.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter04_Implementation/4-1UpDownLeftRight.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part02/Chapter04_Implementation/4-1 UpDownLeftRight.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter04_Implementation/4-2Time.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part02/Chapter04_Implementation/4-2 Time.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter04_Implementation/4-3KnightofKingdom.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part02/Chapter04_Implementation/4-3 KnightofKingdom.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter04_Implementation/4-4DevelopeGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part02/Chapter04_Implementation/4-4 DevelopeGame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter04_Implementation/Ch04_intro.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Part02/Chapter04_Implementation/Ch04_intro.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +61,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.4-4DevelopeGame">
-    <configuration name="3-3NumCardGame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jaesu\Desktop\Github\coding-test-example\ThisIsCodingTest\Part02_주요_알고리즘_이론과_실전_문제" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Q05_ChooseBowlingBall">
+    <configuration name="Q01_AdventurerGuild" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ThisIsCodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter03_Greedy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part03/Chapter03_Greedy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\jaesu\Desktop\Github\coding-test-example\ThisIsCodingTest\Chapter03_Greedy\3-3NumCardGame.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part03/Chapter03_Greedy/Q01_AdventurerGuild.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3-4UntilOne" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Q02_PlusOrMult" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ThisIsCodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter03_Greedy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part03/Chapter03_Greedy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter03_Greedy/3-4UntilOne.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part03/Chapter03_Greedy/Q02_PlusOrMult.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4-1UpDownLeftRight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Q03_ReverseString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ThisIsCodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter04_Implementation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter04_Implementation/4-1UpDownLeftRight.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q03_ReverseString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4-2Time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Q04_UnreachablePrice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ThisIsCodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter04_Implementation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter04_Implementation/4-2Time.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q04_UnreachablePrice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4-4DevelopeGame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Q05_ChooseBowlingBall" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ThisIsCodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter04_Implementation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter04_Implementation/4-4DevelopeGame.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q05_ChooseBowlingBall.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4-4DevelopeGame" />
-        <item itemvalue="Python.4-2Time" />
-        <item itemvalue="Python.4-1UpDownLeftRight" />
-        <item itemvalue="Python.3-4UntilOne" />
-        <item itemvalue="Python.3-3NumCardGame" />
+        <item itemvalue="Python.Q05_ChooseBowlingBall" />
+        <item itemvalue="Python.Q04_UnreachablePrice" />
+        <item itemvalue="Python.Q03_ReverseString" />
+        <item itemvalue="Python.Q02_PlusOrMult" />
+        <item itemvalue="Python.Q01_AdventurerGuild" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +191,14 @@
       <option name="presentableId" value="Default" />
       <updated>1620282116666</updated>
     </task>
+    <task id="LOCAL-00001" summary="2021.05.12(Wed) python">
+      <created>1620807446057</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620807446057</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,5 +211,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2021.05.12(Wed) python" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.05.12(Wed) python" />
   </component>
 </project>
