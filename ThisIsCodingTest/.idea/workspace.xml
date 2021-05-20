@@ -1,32 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="caf3139e-3358-4ef2-95c1-62d6d3787822" name="Default Changelist" comment="2021.05.12(Wed) python">
-      <change afterPath="$PROJECT_DIR$/Part02/Chapter05_DFS&amp;BFS/5-10 FrozenDrink.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part02/Chapter05_DFS&amp;BFS/5-11 ExcapeMaze.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part02/Chapter05_DFS&amp;BFS/5-1StackExample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part02/Chapter05_DFS&amp;BFS/5-2QueueExample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part02/Chapter05_DFS&amp;BFS/5-5 FactorialExample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part02/Chapter05_DFS&amp;BFS/5-6 AdjacencyList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part02/Chapter05_DFS&amp;BFS/5-7 AdjacencyMatrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part02/Chapter05_DFS&amp;BFS/5-8 DFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part02/Chapter05_DFS&amp;BFS/5-9 BFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part02/Chapter05_DFS&amp;BFS/Ch05_intro.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q01_AdventurerGuild.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q02_PlusOrMult.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q03_ReverseString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q04_UnreachablePrice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q05_ChooseBowlingBall.py" afterDir="false" />
+    <list default="true" id="caf3139e-3358-4ef2-95c1-62d6d3787822" name="Default Changelist" comment="2021.05.13(THU) python&#10;Part.02&#10; - Ch05&#10;Part.03&#10; - Ch03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter03_Greedy/3-1CoinChanges.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part02/Chapter03_Greedy/3-1 CoinChanges.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter03_Greedy/3-2LargeNumRule.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part02/Chapter03_Greedy/3-2 LargeNumRule.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter03_Greedy/3-3NumCardGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part02/Chapter03_Greedy/3-3 NumCardGame.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter03_Greedy/3-4UntilOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part02/Chapter03_Greedy/3-4 UntilOne.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter04_Implementation/4-1UpDownLeftRight.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part02/Chapter04_Implementation/4-1 UpDownLeftRight.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter04_Implementation/4-2Time.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part02/Chapter04_Implementation/4-2 Time.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter04_Implementation/4-3KnightofKingdom.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part02/Chapter04_Implementation/4-3 KnightofKingdom.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter04_Implementation/4-4DevelopeGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part02/Chapter04_Implementation/4-4 DevelopeGame.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter04_Implementation/Ch04_intro.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Part02/Chapter04_Implementation/Ch04_intro.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q01_AdventurerGuild.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q02_PlusOrMult.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q03_ReverseString.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q04_UnreachablePrice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q05_ChooseBowlingBall.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +31,13 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/jaesungryu96/coding-test-example" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1s9Q2HE08a9V611x93VmcR68Y1o" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -198,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620807446057</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2021.05.13(THU) python&#10;Part.02&#10; - Ch05&#10;Part.03&#10; - Ch03">
+      <created>1620894779007</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620894779007</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,9 +206,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2021.05.12(Wed) python" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.05.12(Wed) python" />
+    <MESSAGE value="2021.05.13(THU) python&#10;Part.02&#10; - Ch05&#10;Part.03&#10; - Ch03" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.05.13(THU) python&#10;Part.02&#10; - Ch05&#10;Part.03&#10; - Ch03" />
   </component>
 </project>
