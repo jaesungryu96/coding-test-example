@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="caf3139e-3358-4ef2-95c1-62d6d3787822" name="Default Changelist" comment="2021.05.20(THU) python&#10;Part.02&#10; - Ch06" />
+    <list default="true" id="caf3139e-3358-4ef2-95c1-62d6d3787822" name="Default Changelist" comment="2021.05.20(THU) python&#10;Part.02&#10; - Ch06">
+      <change afterPath="$PROJECT_DIR$/APPENDIX_A_python_for_coding_test/01_Data_Type.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTest_Study/Interpark_CodingTest01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter07_BinarySearch/7-1 SequentialSearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter07_BinarySearch/7-2 BinarySearch_Recursive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter07_BinarySearch/7-3 BinarySearch_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter07_BinarySearch/7-5 FindPart_BinarySearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter07_BinarySearch/7-6 FindPart_CountSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter07_BinarySearch/7-7 FindPart_Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter07_BinarySearch/7-8 MakeDduck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter07_BinarySearch/Ch07_intro.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter08_DynamicProgramming/8-1 Fibonacci_Function_recursive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter08_DynamicProgramming/8-2 Fibo_Memoization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter08_DynamicProgramming/8-3 Dynamic_Programming_Time_Complexity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter08_DynamicProgramming/8-4 Fibonacci_Function_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter08_DynamicProgramming/8-5 Make_to_One.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter08_DynamicProgramming/8-6 Ant_Warrior.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter08_DynamicProgramming/8-7 FloorConstruction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter08_DynamicProgramming/8-8 EfficientCurrency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter08_DynamicProgramming/Ch08_intro.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter09_ShortestPath/9-1 Simple_Dijkstra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter09_ShortestPath/9-2 heapq_Dijkstra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter09_ShortestPath/9-3 Floyd-Warshall_Algorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter09_ShortestPath/9-4 Future_City.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter09_ShortestPath/9-5 Telegram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part02/Chapter09_ShortestPath/Ch09_intro.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter11_Greedy/Q06_Muzy'sMukbangLive(1st).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter11_Greedy/Q06_Muzy'sMukbangLive(2nd).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter12_Implementation/Q07_LuckyStraight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter12_Implementation/Q08_Resort_String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q01_AdventurerGuild.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter11_Greedy/Q01_AdventurerGuild(1st).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q02_PlusOrMult.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter11_Greedy/Q02_PlusOrMult(1st).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q03_ReverseString.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter11_Greedy/Q03_ReverseString(1st).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q04_UnreachablePrice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter11_Greedy/Q04_UnreachablePrice(1st).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q05_ChooseBowlingBall.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter11_Greedy/Q05_ChooseBowlingBall(1st).py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,15 +77,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CodingTest_Study" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jaesu\Desktop\Github\coding-test-example\ThisIsCodingTest\CodingTest_Study" />
+      <recent name="C:\Users\jaesu\Desktop\Github\coding-test-example\ThisIsCodingTest\" />
+      <recent name="C:\Users\jaesu\Desktop\Github\coding-test-example\ThisIsCodingTest\Part03_FirstTrial" />
       <recent name="C:\Users\jaesu\Desktop\Github\coding-test-example\ThisIsCodingTest\Part02_주요_알고리즘_이론과_실전_문제" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.6-12 SwitchElement">
-    <configuration name="6-10 UpToDown" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Q08_Resort_String">
+    <configuration name="9-3 Floyd-Warshall_Algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ThisIsCodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part02/Chapter06_Sort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part02/Chapter09_ShortestPath" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part02/Chapter06_Sort/6-10 UpToDown.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part02/Chapter09_ShortestPath/9-3 Floyd-Warshall_Algorithm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6-11 LowerScore" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9-4 Future_City" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ThisIsCodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part02/Chapter06_Sort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part02/Chapter09_ShortestPath" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part02/Chapter06_Sort/6-11 LowerScore.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part02/Chapter09_ShortestPath/9-4 Future_City.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6-12 SwitchElement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9-5 Telegram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ThisIsCodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part02/Chapter06_Sort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part02/Chapter09_ShortestPath" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part02/Chapter06_Sort/6-12 SwitchElement.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part02/Chapter09_ShortestPath/9-5 Telegram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6-5 QuickSort_python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Q07_LuckyStraight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ThisIsCodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part02/Chapter06_Sort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part03_FirstTrial/Chapter12_Implementation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part02/Chapter06_Sort/6-5 QuickSort_python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part03_FirstTrial/Chapter12_Implementation/Q07_LuckyStraight.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6-6 CountSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Q08_Resort_String" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ThisIsCodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,11 +180,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part02/Chapter06_Sort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part03_FirstTrial/Chapter12_Implementation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part02/Chapter06_Sort/6-6 CountSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part03_FirstTrial/Chapter12_Implementation/Q08_Resort_String.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.6-12 SwitchElement" />
-        <item itemvalue="Python.6-11 LowerScore" />
-        <item itemvalue="Python.6-10 UpToDown" />
-        <item itemvalue="Python.6-6 CountSort" />
-        <item itemvalue="Python.6-5 QuickSort_python" />
+        <item itemvalue="Python.Q08_Resort_String" />
+        <item itemvalue="Python.Q07_LuckyStraight" />
+        <item itemvalue="Python.9-5 Telegram" />
+        <item itemvalue="Python.9-4 Future_City" />
+        <item itemvalue="Python.9-3 Floyd-Warshall_Algorithm" />
       </list>
     </recent_temporary>
   </component>
