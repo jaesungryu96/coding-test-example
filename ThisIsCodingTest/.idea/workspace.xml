@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="caf3139e-3358-4ef2-95c1-62d6d3787822" name="Default Changelist" comment="2021.06.01(TUE) ~ 2021.06.02(WED)">
-      <change afterPath="$PROJECT_DIR$/APPENDIX_A_python_for_coding_test/03_Loop_Statement.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/APPENDIX_A_python_for_coding_test/04_Function.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/APPENDIX_A_python_for_coding_test/05_Input_Output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/APPENDIX_A_python_for_coding_test/06_Standard_Library_and_Caution.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTest_Study/H-index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTest_Study/best_album.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTest_Study/biggest_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTest_Study/carpet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTest_Study/disc_controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTest_Study/find_prime_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTest_Study/immigration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTest_Study/joy_stick.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTest_Study/life_save_boat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTest_Study/make_biggest_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTest_Study/make_traget_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTest_Study/more_spicy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTest_Study/progress_que.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTest_Study/stock_price.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTest_Study/truck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter12_Implementation/Q09_Compress_String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter12_Implementation/Q09_Locker_and_Key.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter12_Implementation/Q10_Snake.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APPENDIX_A_python_for_coding_test/01_Data_Type.txt" beforeDir="false" afterPath="$PROJECT_DIR$/APPENDIX_A_python_for_coding_test/01_Data_Type.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APPENDIX_A_python_for_coding_test/02_Conditional_Statement.txt" beforeDir="false" afterPath="$PROJECT_DIR$/APPENDIX_A_python_for_coding_test/02_Conditional_Statement.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part03_FirstTrial/Chapter12_Implementation/Q08_Resort_String.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter12_Implementation/Q08_Rearrange_String.py" afterDir="false" />
-    </list>
+    <list default="true" id="caf3139e-3358-4ef2-95c1-62d6d3787822" name="Default Changelist" comment="2021.06.01(TUE) ~ 2021.06.02(WED)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +16,8 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="MIXED" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -238,6 +213,11 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
