@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     <list default="true" id="caf3139e-3358-4ef2-95c1-62d6d3787822" name="Default Changelist" comment="2021.05.20(THU) python&#10;Part.02&#10; - Ch06">
       <change afterPath="$PROJECT_DIR$/APPENDIX_A_python_for_coding_test/01_Data_Type.txt" afterDir="false" />
@@ -32,12 +33,35 @@
       <change afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter11_Greedy/Q06_Muzy'sMukbangLive(2nd).py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter12_Implementation/Q07_LuckyStraight.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter12_Implementation/Q08_Resort_String.py" afterDir="false" />
+=======
+    <list default="true" id="caf3139e-3358-4ef2-95c1-62d6d3787822" name="Default Changelist" comment="2021.06.01(TUE) ~ 2021.06.02(WED)">
+      <change afterPath="$PROJECT_DIR$/APPENDIX_A_python_for_coding_test/03_Loop_Statement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APPENDIX_A_python_for_coding_test/04_Function.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APPENDIX_A_python_for_coding_test/05_Input_Output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APPENDIX_A_python_for_coding_test/06_Standard_Library_and_Caution.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTest_Study/H-index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTest_Study/best_album.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTest_Study/biggest_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTest_Study/carpet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTest_Study/disc_controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTest_Study/find_prime_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTest_Study/immigration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTest_Study/joy_stick.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTest_Study/life_save_boat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTest_Study/make_biggest_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTest_Study/make_traget_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTest_Study/more_spicy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTest_Study/progress_que.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTest_Study/stock_price.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTest_Study/truck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter12_Implementation/Q09_Compress_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter12_Implementation/Q09_Locker_and_Key.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter12_Implementation/Q10_Snake.py" afterDir="false" />
+>>>>>>> parent of 32a2234 (Revert "Programmers_Coding_Example & Unity_Workspace")
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q01_AdventurerGuild.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter11_Greedy/Q01_AdventurerGuild(1st).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q02_PlusOrMult.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter11_Greedy/Q02_PlusOrMult(1st).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q03_ReverseString.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter11_Greedy/Q03_ReverseString(1st).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q04_UnreachablePrice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter11_Greedy/Q04_UnreachablePrice(1st).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q05_ChooseBowlingBall.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter11_Greedy/Q05_ChooseBowlingBall(1st).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APPENDIX_A_python_for_coding_test/01_Data_Type.txt" beforeDir="false" afterPath="$PROJECT_DIR$/APPENDIX_A_python_for_coding_test/01_Data_Type.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APPENDIX_A_python_for_coding_test/02_Conditional_Statement.txt" beforeDir="false" afterPath="$PROJECT_DIR$/APPENDIX_A_python_for_coding_test/02_Conditional_Statement.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part03_FirstTrial/Chapter12_Implementation/Q08_Resort_String.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter12_Implementation/Q08_Rearrange_String.py" afterDir="false" />
     </list>
 =======
     <list default="true" id="caf3139e-3358-4ef2-95c1-62d6d3787822" name="Default Changelist" comment="2021.06.01(TUE) ~ 2021.06.02(WED)" />
@@ -85,14 +109,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jaesu\Desktop\Github\coding-test-example\ThisIsCodingTest\APPENDIX_A_python_for_coding_test" />
       <recent name="C:\Users\jaesu\Desktop\Github\coding-test-example\ThisIsCodingTest\CodingTest_Study" />
       <recent name="C:\Users\jaesu\Desktop\Github\coding-test-example\ThisIsCodingTest\" />
       <recent name="C:\Users\jaesu\Desktop\Github\coding-test-example\ThisIsCodingTest\Part03_FirstTrial" />
       <recent name="C:\Users\jaesu\Desktop\Github\coding-test-example\ThisIsCodingTest\Part02_주요_알고리즘_이론과_실전_문제" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Q08_Resort_String">
-    <configuration name="9-3 Floyd-Warshall_Algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.disc_controller">
+    <configuration name="best_album" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ThisIsCodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part02/Chapter09_ShortestPath" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingTest_Study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part02/Chapter09_ShortestPath/9-3 Floyd-Warshall_Algorithm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingTest_Study/best_album.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9-4 Future_City" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="disc_controller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ThisIsCodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part02/Chapter09_ShortestPath" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingTest_Study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part02/Chapter09_ShortestPath/9-4 Future_City.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingTest_Study/disc_controller.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9-5 Telegram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="immigration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ThisIsCodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +167,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part02/Chapter09_ShortestPath" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingTest_Study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part02/Chapter09_ShortestPath/9-5 Telegram.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingTest_Study/immigration.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q07_LuckyStraight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="life_save_boat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ThisIsCodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,11 +188,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part03_FirstTrial/Chapter12_Implementation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingTest_Study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part03_FirstTrial/Chapter12_Implementation/Q07_LuckyStraight.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingTest_Study/life_save_boat.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +201,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q08_Resort_String" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="make_traget_num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ThisIsCodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,11 +209,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part03_FirstTrial/Chapter12_Implementation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingTest_Study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part03_FirstTrial/Chapter12_Implementation/Q08_Resort_String.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingTest_Study/make_traget_num.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Q08_Resort_String" />
-        <item itemvalue="Python.Q07_LuckyStraight" />
-        <item itemvalue="Python.9-5 Telegram" />
-        <item itemvalue="Python.9-4 Future_City" />
-        <item itemvalue="Python.9-3 Floyd-Warshall_Algorithm" />
+        <item itemvalue="Python.disc_controller" />
+        <item itemvalue="Python.best_album" />
+        <item itemvalue="Python.immigration" />
+        <item itemvalue="Python.make_traget_num" />
+        <item itemvalue="Python.life_save_boat" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621501271314</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2021.06.01(TUE) ~ 2021.06.02(WED)">
+      <created>1622623851155</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622623851155</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,6 +318,7 @@
     <MESSAGE value="2021.05.12(Wed) python" />
     <MESSAGE value="2021.05.13(THU) python&#10;Part.02&#10; - Ch05&#10;Part.03&#10; - Ch03" />
     <MESSAGE value="2021.05.20(THU) python&#10;Part.02&#10; - Ch06" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.05.20(THU) python&#10;Part.02&#10; - Ch06" />
+    <MESSAGE value="2021.06.01(TUE) ~ 2021.06.02(WED)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.06.01(TUE) ~ 2021.06.02(WED)" />
   </component>
 </project>
