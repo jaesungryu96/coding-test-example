@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="caf3139e-3358-4ef2-95c1-62d6d3787822" name="Default Changelist" comment="2021.05.20(THU) python&#10;Part.02&#10; - Ch06">
       <change afterPath="$PROJECT_DIR$/APPENDIX_A_python_for_coding_test/01_Data_Type.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CodingTest_Study/Interpark_CodingTest01.py" afterDir="false" />
@@ -38,6 +39,9 @@
       <change beforePath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q04_UnreachablePrice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter11_Greedy/Q04_UnreachablePrice(1st).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Part03_FirstTrial/Chapter03_Greedy/Q05_ChooseBowlingBall.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part03_FirstTrial/Chapter11_Greedy/Q05_ChooseBowlingBall(1st).py" afterDir="false" />
     </list>
+=======
+    <list default="true" id="caf3139e-3358-4ef2-95c1-62d6d3787822" name="Default Changelist" comment="2021.06.01(TUE) ~ 2021.06.02(WED)" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -239,11 +243,41 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/jaesu/Desktop/Github/coding-test-example/ThisIsCodingTest/CodingTest_Study" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
           </value>
         </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
